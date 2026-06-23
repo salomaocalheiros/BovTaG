@@ -1,8 +1,8 @@
-﻿# BovTaG
+# BovTaG
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
-> RepositÃ³rio do projeto **BovTaG**.
+> Repositório do projeto **BovTaG**.
 
 ## Tecnologias
 
@@ -10,11 +10,11 @@
 
 ## Como rodar
 
-### PrÃ©-requisitos
+### Pré-requisitos
 
 - Python 3.10+
 
-### InstalaÃ§Ã£o
+### Instalação
 
 ```bash
 git clone https://github.com/salomaocalheiros/BovTaG.git
@@ -22,7 +22,7 @@ cd BovTaG
 pip install -r requirements.txt
 ```
 
-### ExecuÃ§Ã£o
+### Execução
 
 ```bash
 python main.py
@@ -33,13 +33,14 @@ python main.py
 ```
 BovTaG/
 ├── .env
-└── app.py
+├── app.py
+└── README.md
 ```
 
-## ContribuiÃ§Ã£o
+## Contribuição
 
-ContribuiÃ§Ãµes sÃ£o bem-vindas. Abra uma issue ou envie um pull request.
+Contribuições são bem-vindas. Abra uma issue ou envie um pull request.
 
 ---
 
-**Autor:** [SalomÃ£o Calheiros](https://github.com/salomaocalheiros)
+**Autor:** [Salomão Calheiros](https://github.com/salomaocalheiros)
